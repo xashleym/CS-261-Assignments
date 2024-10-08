@@ -1,0 +1,4 @@
+"C:\Users\Ashley\PycharmProjects\cs 261\.venv\Scripts\python.exe" "C:\CS 261\system_test.py"
+This is an acceptable version of Python, version 3.12.
+
+Process finished with exit code 0
